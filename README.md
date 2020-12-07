@@ -4,12 +4,10 @@
 
 ## what is this?
 
-react automatically<br/>
 这是一个 React 脚手架，没有使用 create-react-app<br/>
 标准的 React+Redux 分层结构<br/>
-经过了多个项目的实践，不停的更新和优化出来的。目前自己做项目也在用。
 
-- PWA、Hooks、代码分割、热替换、HappyPack 多线程构建、ES6+语法
+- Hooks、代码分割、热替换、thread-loader 多线程构建、ES6+语法
 
 
 ## 构建 Start
